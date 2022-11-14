@@ -13,5 +13,6 @@
     "\\resources\\views\\products",
     "\\resources\\views\\products\\components"
   ],
+  "SelectedNode": "\\resources\\views\\layouts\\nav.blade.php",
   "PreviewInSolutionExplorer": false
 }
